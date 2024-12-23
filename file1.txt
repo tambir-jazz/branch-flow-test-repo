@@ -20,6 +20,14 @@ Some initial content AB
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+Fu
+>>>>>>> Stashed changes
+=======
+>>>>>>> ae6f542 (feat: add automate script for branche-pr flow)
 Fu
 >>>>>>> Stashed changes
 =======
