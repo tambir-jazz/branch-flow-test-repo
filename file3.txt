@@ -1,18 +1,1 @@
-Some new content ABC
-hed changes
->>>>>>> 454698c (feat: add automate script for branche-pr flow)
->>>>>>> Stashed changes
-=======
-<<<<<<< HEAD
->>>>>>> 454698c (feat: add automate script for branche-pr flow)
-=======
-=======
-Some new content ABC
->>>>>>> Stashed changes
-=======
-hed changes
->>>>>>> 454698c (feat: add automate script for branche-pr flow)
->>>>>>> Stashed changes
->>>>>>> 1b17210 (feat: add automate script for branche-pr flow)
->>>>>>> Stashed changes
->>>>>>> 580c5b2 (feat: add automate script for branche-pr flow)
+Clean
