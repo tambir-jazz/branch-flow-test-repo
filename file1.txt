@@ -1,1 +1,11 @@
 Some initial content AB
+<<<<<<< HEAD
+=======
+
+<<<<<<< Updated upstream
+Fu
+>>>>>>> Stashed changes
+=======
+Fu
+>>>>>>> Stashed changes
+>>>>>>> 5292201 (feat: add automate script for branche-pr flow)
