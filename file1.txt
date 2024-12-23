@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Some initial content
+=======
+Some initial content AB
+>>>>>>> 10b011c (feat: add automate script for branche-pr flow)
