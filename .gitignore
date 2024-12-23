@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ./create_pr.bat
+=======
+create_pr.bat
+>>>>>>> 34d2e89 (add script to git ignore)
