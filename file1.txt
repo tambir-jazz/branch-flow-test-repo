@@ -3,6 +3,10 @@ Some initial content AB
 =======
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+Fu
+>>>>>>> Stashed changes
+=======
 Fu
 >>>>>>> Stashed changes
 =======
