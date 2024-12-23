@@ -1,13 +1,1 @@
-<<<<<<< HEAD
 Some new content ABC
-=======
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Some new content
-=======
-Some new content ABC
->>>>>>> Stashed changes
-=======
-Some new content ABC
->>>>>>> Stashed changes
->>>>>>> 454698c (feat: add automate script for branche-pr flow)
