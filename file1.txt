@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 Some initial content
+=======
+Some initial content AB
+
+Fu
+>>>>>>> Stashed changes
