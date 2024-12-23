@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Some new content
+=======
+Some new content ABC
+>>>>>>> Stashed changes
 =======
 Some new content ABC
 >>>>>>> Stashed changes
