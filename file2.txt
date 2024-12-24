@@ -1,1 +1,9 @@
-More content
+<<<<<<< HEAD
+<<<<<<< HEAD
+More content AC
+=======
+More content AB
+>>>>>>> 8f3edae (feat: add automate script for branche-pr flow)
+=======
+More content ABC
+>>>>>>> 0498b18 (feat: add automate script for branche-pr flow)
